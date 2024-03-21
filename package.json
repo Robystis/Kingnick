@@ -1,7 +1,7 @@
 {
-  "name": "IBRAHIM-TECH",
+  "name": "🔱MANOS🔱-MD",
   "version": "2.0.0",
-  "description": "",
+  "description": "A impressive whatsapp bot made by nick to make whatsapp more lively",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "IBRAHIM-TECH",
+    "🔱Manos🔱",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "manos"
   ],
-  "author": "France King",
+  "author": "manos",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
